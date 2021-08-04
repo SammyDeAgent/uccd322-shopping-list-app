@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sievert Pharmaceuticals</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to Sievert</string>
+    <string name="nav_header_subtitle">Shaping humanity to a healthier future</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Shopping Cart</string>
+    <string name="add">+</string>
+    <string name="btnClear">Clear Cart</string>
+        <string name="save">Save Cart List</string>
+    <string name="load">Load Saved List</string>
+</resources>
